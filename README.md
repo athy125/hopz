@@ -1,6 +1,6 @@
-# Blogging Platform
+# Blog WebApp
 
-A blogging platform using React Hooks, MongoDB Atlas, Express and Node.js.
+A blogging Web App made using React, MongoDB, Express and Node.js.
 
 ## Core features
 
